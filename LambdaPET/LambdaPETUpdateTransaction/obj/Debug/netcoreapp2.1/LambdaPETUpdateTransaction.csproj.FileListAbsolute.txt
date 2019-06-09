@@ -1,0 +1,8 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\bin\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\bin\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\bin\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\bin\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\obj\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\obj\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\obj\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETUpdateTransaction\obj\Debug\netcoreapp2.1\LambdaPETUpdateTransaction.AssemblyInfo.cs

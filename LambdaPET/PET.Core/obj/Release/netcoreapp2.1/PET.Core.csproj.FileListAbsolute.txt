@@ -1,0 +1,11 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\bin\Release\netcoreapp2.1\PET.Core.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\bin\Release\netcoreapp2.1\PET.Core.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\bin\Release\netcoreapp2.1\PET.Core.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\bin\Release\netcoreapp2.1\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\bin\Release\netcoreapp2.1\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\obj\Release\netcoreapp2.1\PET.Core.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\obj\Release\netcoreapp2.1\PET.Core.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\obj\Release\netcoreapp2.1\PET.Core.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\obj\Release\netcoreapp2.1\PET.Core.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\obj\Release\netcoreapp2.1\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\PET.Core\obj\Release\netcoreapp2.1\PET.Core.pdb

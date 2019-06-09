@@ -1,0 +1,11 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Debug\netcoreapp2.1\LambdaPETGetPhotos.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Debug\netcoreapp2.1\LambdaPETGetPhotos.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Debug\netcoreapp2.1\LambdaPETGetPhotos.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Debug\netcoreapp2.1\LambdaPETGetPhotos.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Debug\netcoreapp2.1\LambdaPETGetPhotos.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Debug\netcoreapp2.1\LambdaPETGetPhotos.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Debug\netcoreapp2.1\LambdaPETGetPhotos.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Debug\netcoreapp2.1\LambdaPETGetPhotos.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Debug\netcoreapp2.1\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Debug\netcoreapp2.1\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Debug\netcoreapp2.1\LambdaPETGetPhotos.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\LambdaPETSearch.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\LambdaPETSearch.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\LambdaPETSearch.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\LambdaPETSearch.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\LambdaPETSearch.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Debug\netcoreapp2.1\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Debug\netcoreapp2.1\LambdaPETSearch.csprojAssemblyReference.cache

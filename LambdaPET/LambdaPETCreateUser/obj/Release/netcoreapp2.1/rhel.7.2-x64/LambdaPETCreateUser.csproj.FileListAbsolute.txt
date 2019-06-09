@@ -1,0 +1,15 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateUser.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateUser\bin\Release\netcoreapp2.1\rhel.7.2-x64\appsettings.json

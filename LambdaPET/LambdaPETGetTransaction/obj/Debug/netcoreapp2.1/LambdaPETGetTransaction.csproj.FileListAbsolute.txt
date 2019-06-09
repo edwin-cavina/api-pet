@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\LambdaPETGetTransaction.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\LambdaPETGetTransaction.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\LambdaPETGetTransaction.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\LambdaPETGetTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\LambdaPETGetTransaction.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\bin\Debug\netcoreapp2.1\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetTransaction\obj\Debug\netcoreapp2.1\LambdaPETGetTransaction.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\LambdaPETListPet.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\LambdaPETListPet.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\LambdaPETListPet.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\LambdaPETListPet.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\LambdaPETListPet.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\bin\Debug\netcoreapp2.1\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListPet\obj\Debug\netcoreapp2.1\LambdaPETListPet.csproj.CopyComplete

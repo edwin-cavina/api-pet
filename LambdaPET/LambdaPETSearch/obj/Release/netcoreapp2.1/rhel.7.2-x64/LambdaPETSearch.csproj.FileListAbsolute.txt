@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETSearch\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETSearch.pdb

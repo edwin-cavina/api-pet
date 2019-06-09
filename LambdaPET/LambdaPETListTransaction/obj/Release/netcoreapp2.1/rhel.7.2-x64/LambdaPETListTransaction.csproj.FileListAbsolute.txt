@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETListTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETListTransaction.pdb

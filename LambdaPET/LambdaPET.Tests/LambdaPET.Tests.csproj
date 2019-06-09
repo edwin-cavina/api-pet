@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Amazon.Lambda.APIGatewayEvents" Version="1.2.0" />
+    <PackageReference Include="Amazon.Lambda.Core" Version="1.1.0" />
+    <PackageReference Include="Amazon.Lambda.TestUtilities" Version="1.1.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LambdaPETCreatePet\LambdaPETCreatePet.csproj" />
+    <ProjectReference Include="..\LambdaPETCreateTransaction\LambdaPETCreateTransaction.csproj" />
+    <ProjectReference Include="..\LambdaPETCreateUser\LambdaPETCreateUser.csproj" />
+    <ProjectReference Include="..\LambdaPETGetMessage\LambdaPETGetMessage.csproj" />
+    <ProjectReference Include="..\LambdaPETGetPet\LambdaPETGetPet.csproj" />
+    <ProjectReference Include="..\LambdaPETGetUser\LambdaPETGetUser.csproj" />
+    <ProjectReference Include="..\LambdaPETListPet\LambdaPETListPet.csproj" />
+    <ProjectReference Include="..\LambdaPETListTransaction\LambdaPETListTransaction.csproj" />
+    <ProjectReference Include="..\LambdaPETSearch\LambdaPETSearch.csproj" />
+    <ProjectReference Include="..\LambdaPETUploadPhotos\LambdaPETUploadPhotos.csproj" />
+    <ProjectReference Include="..\PET.Core\PET.Core.csproj" />
+  </ItemGroup>
+</Project>

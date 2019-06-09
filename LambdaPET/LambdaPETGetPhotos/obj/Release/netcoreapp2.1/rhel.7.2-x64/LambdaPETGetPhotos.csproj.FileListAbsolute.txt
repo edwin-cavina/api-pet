@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETGetPhotos\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETGetPhotos.pdb

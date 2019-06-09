@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreatePet\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreatePet.pdb

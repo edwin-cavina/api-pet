@@ -1,0 +1,14 @@
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.deps.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.runtimeconfig.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.runtimeconfig.dev.json
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PET.Core.pdb
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.csprojAssemblyReference.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.csproj.CoreCompileInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.AssemblyInfoInputs.cache
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.AssemblyInfo.cs
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.csproj.CopyComplete
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.dll
+C:\Users\edwin.cavina\source\repos\LambdaPET\LambdaPETCreateTransaction\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaPETCreateTransaction.pdb
